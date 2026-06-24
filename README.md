@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm student<br>
+I'm student<br> Aspiring AI Developer & Prompt Engineer | Java & DSA Enthusiast | Creative Problem Solver<\br>
 
 
 ## 🌐 Socials:
